@@ -2,8 +2,6 @@
 <h1 align="center"> Subin Cho </h1>
 
 
-## 👤 About Me
-
 - I'm currently working on: Building scalable backend systems with **Spring Boot**, Cloud infra, DevOps, and Real-time messaging
 - I'm interested in: Leveraging data for **Data-driven decision making** beyond building Data pipelines
 <br/>
