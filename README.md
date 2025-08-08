@@ -10,7 +10,7 @@
 | 프로젝트 명 | 기간       | 설명             | 역할                   |
 |---------------|---------------|---------------------|----------------------------------|
 | <a href="https://github.com/katchup-official/katchup-be">katchup</a> | 2025. 8. - ing | 문화 행사 동행 매칭 플랫폼 | Backend Developer, Cloud & DevOps |
-| <a href="https://github.com/orgs/Fac2Real/repositories">Monitory</a> | 2025. 4. - 2025. 6. | 공장 내 환경 제어·작업자 안전·설비 예지 보전 통합 관리 서비스 | Data Stream, Cloud & DevOps |
+| <a href="https://github.com/orgs/Fac2Real/repositories">Monitory</a> | 2025. 4. - 2025. 6. | 공장 내 환경·작업자 안전·설비 통합 관리 서비스 | Data Stream, Cloud & DevOps |
 | <a href="https://github.com/AM-Inspire-Devfit/devfit-server">Devfit</a> | 2024. 12. - 2025. 3. | 개발자 중심의 Agile 협업 관리 플랫폼  | Backend Developer |
 | <a href="">TrekBuddy</a> | 2023. 7. - 2023. 12. | AI 텍스트 모델 기반 실시간 여행 가이드 서비스 | Android Developer, ML |
 
